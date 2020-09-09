@@ -1,6 +1,6 @@
 ## coffeeread
 
-Reading list for Tuesday's (13:00) reading meets:
+Reading list for weekly (TUES, 13:00, ZOOM) reading meets:
 
 Sep 15: Shmueli, G. (2010). To explain or to predict?. Statistical Science, 25(3), 289-310.
 
