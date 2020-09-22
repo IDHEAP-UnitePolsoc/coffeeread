@@ -8,4 +8,6 @@ Sep 29: Martin, C.J. and Chevalier, Tom. (2018). What we talk about when we talk
 
 Oct 6: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Science Research and Politics.
 
+Oct 13: Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
+
 TBD: Achen, C. H. (2005). Let’s put garbage-can regressions and garbage-can probits where they belong. Conflict Management and Peace Science, 22(4):327–339.
