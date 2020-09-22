@@ -6,4 +6,6 @@ Sep 22: Grimmer, J. and Stewart, B. M. (2013). Text as data: The promise and pit
 
 Sep 29: Martin, C.J. and Chevalier, Tom. (2018). What we talk about when we talk about poverty. Working Paper (https://ces.fas.harvard.edu/uploads/files/events/Martin_Chevalier_APSA_2018_final.docx).
 
+Oct 6: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Science Research and Politics.
+
 TBD: Achen, C. H. (2005). Let’s put garbage-can regressions and garbage-can probits where they belong. Conflict Management and Peace Science, 22(4):327–339.
