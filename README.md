@@ -10,4 +10,6 @@ Oct 6: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Sc
 
 Oct 13: Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
 
+Oct 20: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18. 
+
 TBD: Achen, C. H. (2005). Let’s put garbage-can regressions and garbage-can probits where they belong. Conflict Management and Peace Science, 22(4):327–339.
