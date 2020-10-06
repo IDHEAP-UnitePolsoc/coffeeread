@@ -1,6 +1,6 @@
 ## coffeeread
 
-Reading list for weekly (TUES, 13:00, ZOOM) reading meets:
+**Reading list for weekly (TUES, 13:00, ZOOM) reading meets:**
 
 ~~Sep 22: Grimmer, J. and Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. Political Analysis, 21(3):267–297.~~
 
