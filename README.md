@@ -12,4 +12,6 @@ Nov 3: Przeworski, Adam. (2020). What Have I Learned from Marx and What Still St
 
 Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.
 
+Dec 1: Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.
+
 TBD: Achen, C. H. (2005). Let’s put garbage-can regressions and garbage-can probits where they belong. Conflict Management and Peace Science, 22(4):327–339.
