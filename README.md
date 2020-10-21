@@ -6,7 +6,7 @@
 
 ~~Sep 29: Martin, C.J. and Chevalier, Tom. (2018). What we talk about when we talk about poverty. Working Paper (https://ces.fas.harvard.edu/uploads/files/events/Martin_Chevalier_APSA_2018_final.docx).~~
 
-Oct 20: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Science Research and Politics.
+~~Oct 20: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Science Research and Politics.~~
 
 Nov 3: Alesina, Giuliano & Nunn. (2013). On the origins of gender roles: Women and the plough. Quarterly Journal of Economics, 128(2)
 
