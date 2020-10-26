@@ -16,6 +16,8 @@ Dec 1: Kurzban et al. 2001. Can race be erased? Coalitional computation and soci
 
 Dec 15: Arceneaux et al. 2020. Is COVID-19 a Threat to Liberal Democracy? https://psyarxiv.com/8e4pa/download?format=pdf
 
+Jan 5: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. _Science Advances_, 4(1). https://advances.sciencemag.org/content/4/1/eaao5580.
+
 TBD:
 
 Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
