@@ -8,9 +8,9 @@
 
 ~~Oct 20: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Science Research and Politics.~~
 
-**Nov 3: Alesina, Giuliano & Nunn. (2013). On the origins of gender roles: Women and the plough. Quarterly Journal of Economics, 128(2)**
+~~Nov 3: Alesina, Giuliano & Nunn. (2013). On the origins of gender roles: Women and the plough. Quarterly Journal of Economics, 128(2)~~
 
-Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.
+**Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.**
 
 Dec 1: Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.
 
