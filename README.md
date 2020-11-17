@@ -10,11 +10,15 @@
 
 ~~Nov 3: Alesina, Giuliano & Nunn. (2013). On the origins of gender roles: Women and the plough. Quarterly Journal of Economics, 128(2)~~
 
-**Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.**
+~~Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.~~
 
-Dec 1: Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.
+**Dec 8: GitHub Workshop**
 
-Dec 15: Arceneaux et al. 2020. Is COVID-19 a Threat to Liberal Democracy? https://psyarxiv.com/8e4pa/download?format=pdf
+Dec 15: Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.
+
+Dec 22: Xmas + discussion of format for next semester.
+
+Jan 5: Arceneaux et al. 2020. Is COVID-19 a Threat to Liberal Democracy? https://psyarxiv.com/8e4pa/download?format=pdf
 
 Jan 5: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. _Science Advances_, 4(1). https://advances.sciencemag.org/content/4/1/eaao5580.
 
