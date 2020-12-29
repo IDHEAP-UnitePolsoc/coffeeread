@@ -24,6 +24,8 @@ Jan 5: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of pr
 
 TBD:
 
+Cairney, P., & Weible, C. M. (2017). The new policy sciences: combining the cognitive science of choice, multiple theories of context, and basic and applied analysis. Policy Sciences, 50(4), 619-627.
+
 Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
 
 Achen, C. H. (2005). Let’s put garbage-can regressions and garbage-can probits where they belong. Conflict Management and Peace Science, 22(4):327–339.
