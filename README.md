@@ -12,11 +12,11 @@
 
 ~~Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.~~
 
-**Dec 8: GitHub Workshop**
+~~**Dec 8: GitHub Workshop**~~
 
-Dec 15: Xmas + discussion of format for next semester.
+~~Dec 15: Xmas + discussion of format for next semester.~~
 
-Dec 22: (Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.)
+~~Dec 22: (Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.)~~
 
 Jan 5: Arceneaux et al. 2020. Is COVID-19 a Threat to Liberal Democracy? https://psyarxiv.com/8e4pa/download?format=pdf
 
