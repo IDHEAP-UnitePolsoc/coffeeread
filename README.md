@@ -1,6 +1,6 @@
 ## coffeeread
 
-**Reading list for weekly (TUES, 13:00) reading meets:**
+**Reading list for bi-weekly (TUES, 13:00) reading meets:**
 
 Jan 19: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. _Science Advances_, 4(1). https://advances.sciencemag.org/content/4/1/eaao5580.
 
