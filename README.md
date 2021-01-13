@@ -2,25 +2,20 @@
 
 **Reading list for weekly (TUES, 13:00) reading meets:**
 
-~~Sep 22: Grimmer, J. and Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. Political Analysis, 21(3):267–297.~~
-
-~~Sep 29: Martin, C.J. and Chevalier, Tom. (2018). What we talk about when we talk about poverty. Working Paper (https://ces.fas.harvard.edu/uploads/files/events/Martin_Chevalier_APSA_2018_final.docx).~~
-
-~~Oct 20: Rehm, Philipp. (2020). The Future of Welfare State Politics. Political Science Research and Politics.~~
-
-~~Nov 3: Alesina, Giuliano & Nunn. (2013). On the origins of gender roles: Women and the plough. Quarterly Journal of Economics, 128(2)~~
-
-~~Nov 17: Haselswerdt, J. (2020). Social Welfare Attitudes and Immigrants as a Target Population: Experimental Evidence. Perspectives on Politics, 1-18.~~
-
-~~**Dec 8: GitHub Workshop**~~
-
-~~Dec 15: Xmas + discussion of format for next semester.~~
-
-~~Dec 22: (Kurzban et al. 2001. Can race be erased? Coalitional computation and social categorization. Proceedings of the American Academy of Sciences 98(26):15387–15392.)~~
-
-~~Jan 5: Arceneaux et al. 2020. Is COVID-19 a Threat to Liberal Democracy? https://psyarxiv.com/8e4pa/download?format=pdf~~
-
 Jan 19: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. _Science Advances_, 4(1). https://advances.sciencemag.org/content/4/1/eaao5580.
+
+Feb 2: Jan Inwood, Joshua. “White Supremacy, White Counter-Revolutionary Politics, and the Rise of Donald Trump.” Environment and Planning C: Politics and Space 37, no. 4 (2019): 579–96. https://doi.org/10.1177/2399654418789949.
+
+Presenter: Alyssa.  
+
+Feb 16: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." The Quarterly Journal of Economics 126.4 (2011): 1799-1839.
+
+Presenter: open. 
+
+Mar 2:Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” American Political Science Review (2020): 1–8. doi:10.1017/S0003055420001057.’
+
+Presenter: open. 
+
 
 TBD:
 
