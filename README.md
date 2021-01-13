@@ -12,7 +12,7 @@ Feb 16: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online
 
 Presenter: open. 
 
-Mar 2:Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” American Political Science Review (2020): 1–8. doi:10.1017/S0003055420001057.’
+Mar 2: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” American Political Science Review (2020): 1–8. doi:10.1017/S0003055420001057.’
 
 Presenter: open. 
 
