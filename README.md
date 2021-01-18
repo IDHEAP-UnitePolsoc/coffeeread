@@ -10,11 +10,15 @@ Feb 2: Jan Inwood, Joshua. “White Supremacy, White Counter-Revolutionary Polit
 
 Presenter: Alyssa.  
 
-Feb 16: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." The Quarterly Journal of Economics 126.4 (2011): 1799-1839.
+Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." International Migration (2020).
+
+Presenter: open.
+
+Mar 2: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." The Quarterly Journal of Economics 126.4 (2011): 1799-1839.
 
 Presenter: open. 
 
-Mar 2: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” American Political Science Review (2020): 1–8. doi:10.1017/S0003055420001057.’
+Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” American Political Science Review (2020): 1–8. doi:10.1017/S0003055420001057.’
 
 Presenter: open. 
 
