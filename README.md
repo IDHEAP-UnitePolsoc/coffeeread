@@ -12,7 +12,7 @@ Presenter: Alyssa.
 
 Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." International Migration (2020).
 
-Presenter: open.
+Presenter: Ihssane.
 
 Mar 2: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." The Quarterly Journal of Economics 126.4 (2011): 1799-1839.
 
