@@ -6,26 +6,26 @@ Jan 19: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of p
 
 Presenter: John.
 
-Feb 2: Jan Inwood, Joshua. “White Supremacy, White Counter-Revolutionary Politics, and the Rise of Donald Trump.” Environment and Planning C: Politics and Space 37, no. 4 (2019): 579–96. https://doi.org/10.1177/2399654418789949.
+Feb 2: Jan Inwood, Joshua. “White Supremacy, White Counter-Revolutionary Politics, and the Rise of Donald Trump.” _Environment and Planning C: Politics and Space_ 37, no. 4 (2019): 579–96. https://doi.org/10.1177/2399654418789949.
 
 Presenter: Alyssa.  
 
-Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." International Migration (2020).
+Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." _International Migration_ (2020).
 
 Presenter: Ihssane.
 
-Mar 2: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." The Quarterly Journal of Economics 126.4 (2011): 1799-1839.
+Mar 2: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." _The Quarterly Journal of Economics_ 126.4 (2011): 1799-1839.
 
-Presenter: open. 
+Presenter: open.
 
-Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” American Political Science Review (2020): 1–8. doi:10.1017/S0003055420001057.’
+Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” _American Political Science Review_ (2020): 1–8. doi:10.1017/S0003055420001057.’
 
-Presenter: open. 
+Presenter: open.
 
 
 TBD:
 
-Cairney, P., & Weible, C. M. (2017). The new policy sciences: combining the cognitive science of choice, multiple theories of context, and basic and applied analysis. Policy Sciences, 50(4), 619-627. 
+Cairney, P., & Weible, C. M. (2017). The new policy sciences: combining the cognitive science of choice, multiple theories of context, and basic and applied analysis. Policy Sciences, 50(4), 619-627.
 
 Bovens, M., & Zouridis, S. (2002). From street‐level to system‐level bureaucracies: how information and communication technology is transforming administrative discretion and constitutional control. Public Administration Review, 62(2), 174-184.
 
