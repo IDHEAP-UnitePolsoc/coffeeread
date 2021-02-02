@@ -4,11 +4,11 @@
 
 ~~Jan 19: Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. _Science Advances_, 4(1). https://advances.sciencemag.org/content/4/1/eaao5580.~~
 
-Presenter: John.
+~~Presenter: John.~~
 
-Feb 2: Jan Inwood, Joshua. “White Supremacy, White Counter-Revolutionary Politics, and the Rise of Donald Trump.” _Environment and Planning C: Politics and Space_ 37, no. 4 (2019): 579–96. https://doi.org/10.1177/2399654418789949.
+~~Feb 2: Jan Inwood, Joshua. “White Supremacy, White Counter-Revolutionary Politics, and the Rise of Donald Trump.” _Environment and Planning C: Politics and Space_ 37, no. 4 (2019): 579–96. https://doi.org/10.1177/2399654418789949.~~
 
-Presenter: Alyssa.  
+~~Presenter: Alyssa.  ~~
 
 Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." _International Migration_ (2020).
 
