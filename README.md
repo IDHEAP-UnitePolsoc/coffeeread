@@ -10,14 +10,13 @@
 
 ~~Presenter: Alyssa.~~
 
-Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." _International Migration_ (2020).
+~~Feb 16: Mozetič, Katarina. "Cartographers of their Futures: The Formation Of Occupational Aspirations of Highly Educated Refugees in Malmö and Munich." _International Migration_ (2020).~~
 
-Presenter: Ihssane.
+~~Presenter: Ihssane.~~
 
 
-Mar 2: Gentzkow, Matthew, and Jesse M. Shapiro. "Ideological segregation online and offline." _The Quarterly Journal of Economics_ 126.4 (2011): 1799-1839.
-
-Presenter: open.
+Mar 2: Araki, Satoshi. "Educational expansion, skills diffusion, and the economic value of credentials and skills." American Sociological Review 85.1 (2020): 128-175.
+Presenter: Annatina.
 
 
 Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” _American Political Science Review_ (2020): 1–8. doi:10.1017/S0003055420001057.’
