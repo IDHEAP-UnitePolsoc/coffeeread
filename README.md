@@ -15,8 +15,8 @@
 ~~Presenter: Ihssane.~~
 
 
-Mar 2: Araki, Satoshi. "Educational expansion, skills diffusion, and the economic value of credentials and skills." American Sociological Review 85.1 (2020): 128-175.
-Presenter: Annatina.
+~~Mar 2: Araki, Satoshi. "Educational expansion, skills diffusion, and the economic value of credentials and skills." American Sociological Review 85.1 (2020): 128-175.
+Presenter: Annatina.~~
 
 
 Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” _American Political Science Review_ (2020): 1–8. doi:10.1017/S0003055420001057.’
@@ -31,12 +31,12 @@ Presenter Ihssane.
 
 April 13: Cairney, P., & Weible, C. M. (2017). The new policy sciences: combining the cognitive science of choice, multiple theories of context, and basic and applied analysis. Policy Sciences, 50(4), 619-627.
 
-Presenter: open. 
+Presenter: John. 
 
 
 April 26: Bovens, M., & Zouridis, S. (2002). From street‐level to system‐level bureaucracies: how information and communication technology is transforming administrative discretion and constitutional control. Public Administration Review, 62(2), 174-184.
 
-Presenter: open. 
+Presenter: John. 
 
 
 May 11: Ferris, Elizabeth. "Making Sense of Public Policy on Refugee Integration." The ANNALS of the American Academy of Political and Social Science 690.1 (2020): 200-224.
