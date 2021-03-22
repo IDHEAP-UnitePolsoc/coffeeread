@@ -29,7 +29,7 @@ Mar 30: Appadurai, Arjun. "Putting hierarchy in its place." Cultural anthropolog
 Presenter Ihssane.
 
 
-April 13: Cairney, P., & Weible, C. M. (2017). The new policy sciences: combining the cognitive science of choice, multiple theories of context, and basic and applied analysis. Policy Sciences, 50(4), 619-627.
+Jayachandran, S., Biradavolu, M., & Cooper, J. (2021). Using machine learning and qualitative interviews to design a five-question women’s agency index. https://faculty.wcas.northwestern.edu/~sjv340/measuring_womens_agency.pdf
 
 Presenter: John. 
 
