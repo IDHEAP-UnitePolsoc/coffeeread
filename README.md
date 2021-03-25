@@ -19,9 +19,9 @@
 Presenter: Annatina.~~
 
 
-Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” _American Political Science Review_ (2020): 1–8. doi:10.1017/S0003055420001057.’
+~~Mar 16: Letter/ Note: Williamson, Scott, Claire L. Adida, Adeline Lo, Melina R. Platas, Lauren Prather, and Seth H. Werfel. “Family Matters: How Immigrant Histories Can Promote Inclusion.” _American Political Science Review_ (2020): 1–8. doi:10.1017/S0003055420001057.’~~
 
-Presenter: Alyssa.
+~~Presenter: Alyssa.~~
 
 
 Mar 30: Appadurai, Arjun. "Putting hierarchy in its place." Cultural anthropology 3.1 (1988): 36-49.
