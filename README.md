@@ -2,7 +2,7 @@
 
 **Reading list for bi-weekly (TUES, 13:00) reading group:**
 
-**There will be a summer break -- please note that our last official reading group meeting will be May 25th!**
+**There will be a summer break -- please note that our last official reading group meeting will be May 25th! We will resume Aug. 3rd**
 
 **May 11:** (Ihssane to pick one of the two following papers:)
 1.Ferris, Elizabeth. "Making Sense of Public Policy on Refugee Integration." The ANNALS of the American Academy of Political and Social Science 690.1 (2020): 200-224.
@@ -11,11 +11,13 @@ OR
 
 *Presenter: Ihssane*
 
-** May 25:** * Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
+**May 25:** Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
 
 *Presenter: None*
 
-*Summer Break -- Starting again August 3rd.*
+Summer Break...
+
+**Aug 3: TBD**
 
 
 TBD: 
