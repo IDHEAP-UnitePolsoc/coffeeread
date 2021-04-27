@@ -4,11 +4,11 @@
 
 **There will be a summer break -- please note that our last official reading group meeting will be May 25th! We will resume Aug. 3rd**
 
-**May 11:** (Ihssane to pick one of the two following papers:)
+**May 11:** (Ihssane to pick one of the two following papers by Tues May 4:)
 
-1.Ferris, Elizabeth. "Making Sense of Public Policy on Refugee Integration." The ANNALS of the American Academy of Political and Social Science 690.1 (2020): 200-224.
+* Ferris, Elizabeth. "Making Sense of Public Policy on Refugee Integration." The ANNALS of the American Academy of Political and Social Science 690.1 (2020): 200-224.
 
-2. Appadurai, Arjun. "The right to research." Globalisation, societies and education 4.2 (2006): 167-177.
+* Appadurai, Arjun. "The right to research." Globalisation, societies and education 4.2 (2006): 167-177.
 
 *Presenter: Ihssane*
 
