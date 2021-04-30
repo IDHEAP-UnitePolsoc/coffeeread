@@ -2,7 +2,7 @@
 
 **Reading list for bi-weekly (TUES, 13:00) reading group:**
 
-**There will be a summer break -- please note that our last official reading group meeting will be May 25th! We will resume Aug. 3rd**
+**There will be a summer break -- please note that our last official reading group meeting will be May 25th!**
 
 **May 11:** (Ihssane to pick one of the two following papers by Tues May 4:)
 
@@ -18,7 +18,7 @@
 
 Summer Break...
 
-**Aug 3: TBD**
+
 
 
 TBD: 
