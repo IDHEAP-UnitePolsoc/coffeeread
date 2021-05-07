@@ -4,11 +4,11 @@
 
 **There will be a summer break -- please note that our last official reading group meeting will be May 25th! TBD on our restart date.**
 
-**May 11:** Appadurai, Arjun. "The right to research." Globalisation, societies and education 4.2 (2006): 167-177.
+**May 11:** Appadurai, Arjun. "The right to research." Globalisation, societies and education 4.2 (2006): 167-177. https://www.tandfonline.com/doi/abs/10.1080/14767720600750696
 
 *Presenter: Ihssane*
 
-**May 25:** Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society.
+**May 25:** Przeworski, Adam. (2020). What Have I Learned from Marx and What Still Stands? Politics & Society. https://journals.sagepub.com/doi/abs/10.1177/0032329220958662?journalCode=pasa
 
 *Presenter: None*
 
