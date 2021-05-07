@@ -2,7 +2,7 @@
 
 **Reading list for bi-weekly (TUES, 13:00) reading group:**
 
-**There will be a summer break -- please note that our last official reading group meeting will be May 25th!**
+**There will be a summer break -- please note that our last official reading group meeting will be May 25th! TBD on our restart date.**
 
 **May 11:** Appadurai, Arjun. "The right to research." Globalisation, societies and education 4.2 (2006): 167-177.
 
